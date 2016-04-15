@@ -18,7 +18,10 @@ public class JavaApplication5 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.err.println("Hola MUNDO CRUEL");
         JOptionPane.showMessageDialog(null, "HOLA MUNDO");
+        
+        
     }
     
 }
